@@ -1,0 +1,18 @@
+---
+object: set
+id: fa0c6488-475f-4e88-8149-e131619bd215
+code: pusg
+name: Urza's Saga Promos
+uri: https://api.scryfall.com/sets/fa0c6488-475f-4e88-8149-e131619bd215
+scryfall_uri: https://scryfall.com/sets/pusg
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apusg&unique=prints
+released_at: '1998-10-12'
+set_type: promo
+card_count: 1
+parent_set_code: usg
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: usg
+block: Urza
+icon_svg_uri: https://svgs.scryfall.io/sets/usg.svg?1694404800
